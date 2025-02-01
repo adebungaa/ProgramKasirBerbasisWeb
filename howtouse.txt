@@ -1,0 +1,10 @@
+How To Use: 
+
+Simpan project dalam foler htdocs 
+Buat database dengan nama kelompok2b
+Import database yang terdapat pada path Kelompok2B/mydb/kelompok2b
+Jalankan project: localhost/Kelompok2B/ProgramKasir
+
+Kredensial: 
+User Admin: kelompok2b=admin
+User Kasir: kelompok2b=kasir
